@@ -2,3 +2,5 @@
 
 Useful html apps integration.
 GNU Licensed.
+
+Trial.
